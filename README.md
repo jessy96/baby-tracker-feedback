@@ -73,7 +73,7 @@ Check the [**Projects board**](../../projects) for the current roadmap — what'
 ## ℹ️ Support
 
 For general questions or anything that doesn't fit a bug report, you can reach us at:  
-📧 **[your-support-email@example.com]**
+📧 **[olesiaserban@gmail.com]**
 
 ---
 
